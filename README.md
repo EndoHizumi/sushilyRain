@@ -1,0 +1,2 @@
+# sushiConverter
+ "ame" -replace-> "sushi"
